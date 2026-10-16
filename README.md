@@ -1,6 +1,6 @@
 # Privora Platform (legacy cloud services)
 
-Account, billing, hosted-model and update-feed implementation extracted with history from [MohammedSafwan10/ai](https://github.com/MohammedSafwan10/ai). Privora Desktop is becoming BYOK-only and no longer needs these account or credit services. This extraction does not deploy code or delete existing cloud resources.
+Account, billing, hosted-model and update-feed implementation extracted with history from [privora-desktop](https://github.com/MohammedSafwan10/privora-desktop). Privora Desktop is BYOK-only and no longer needs these account or credit services. This extraction does not deploy code or delete existing cloud resources.
 
 - `apps/web/`: previous account/billing website.
 - `appwrite/functions/`: model gateway and desktop update feed.
