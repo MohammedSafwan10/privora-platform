@@ -1,0 +1,9 @@
+{
+  "name": "privora-platform",
+  "private": true,
+  "scripts": {
+    "web:dev": "npm --prefix apps/web run dev",
+    "web:lint": "npm --prefix apps/web run lint",
+    "web:build": "npm --prefix apps/web run build"
+  }
+}
